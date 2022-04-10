@@ -1,3 +1,3 @@
-### Demo
+### HELLO
 
-https://code-sync.codersgyan.com/
+https://hello-coders-house.herokuapp.com/
